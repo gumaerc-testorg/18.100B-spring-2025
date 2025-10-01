@@ -7,9 +7,9 @@ uid: 0930a46d-2d92-4064-953e-a73290415fbc
 ---
 Readings are assigned in Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. 2008. *Elementary Real Analysis*. 2nd ed. ISBN: 9781434843678
 
-[A screen-optimized PDF version of the textbook is available.](https://classicalrealanalysis.info/com/documents/TBB-AllChapters-Landscape.pdf)         
+{{% resource_link "4aaedcfc-2a0d-486a-a13e-a9eda29de49f" "A screen-optimized PDF version of the textbook is available." %}}         
 
-[A print-optimized PDF version of the textbook is available.](https://classicalrealanalysis.info/com/documents/TBB-AllChapters-Portrait.pdf)                      
+{{% resource_link "d78cba8e-0dae-477c-9349-ddb277119eca" "A print-optimized PDF version of the textbook is available." %}}                      
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Lec #
